@@ -1,0 +1,6 @@
+Boilerplate
+===========
+
+[badges]
+
+[license]
